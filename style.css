@@ -1,0 +1,45 @@
+.lists {
+
+    background-color: rgb(254, 255, 225);
+    padding: 5px;
+    margin: 0px;
+    margin-top: 3px;
+    width: auto;
+    display: block;
+
+}
+
+.lists:hover {
+    transition: 1s;
+    background-color: rgba(71, 71, 52, 0.788);
+    color: white;
+}
+
+#container {
+
+    margin-top: 2em;
+
+}
+
+.div {
+
+    position: relative;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 4em;
+
+
+}
+
+.button {
+
+    margin-top: 3em;
+    padding: 10px;
+    background-color: beige;
+    border-radius: 10px;
+
+}
+
+.invisible {
+    display: none;
+}
